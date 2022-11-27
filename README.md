@@ -1,5 +1,32 @@
-# bootstrap_breakpoints_navbar
+# html-bootstrap-responsive-navbar
 
-[Click Me!](https://esadakman.github.io/bootstrap_breakpoints_navbar/)
+## Description
 
-![nav-boot](https://user-images.githubusercontent.com/98649983/170520283-c8551c8f-1cf6-4a3f-b03f-b9dd174d5c2d.gif)
+Responsive navbar project made with bootstrap.
+
+### At the end of the project, following topics are to be covered;
+
+- HTML 
+
+- CSS 
+
+- Bootstrap
+
+- Responsive design  
+
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS and Bootstrap
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+### Project Link 
+ You can reach my project from [here](https://esadakman.github.io/html-bootstrap-responsive-navbar/) 👈
+
+ ### Preview of the Project
+
+<img src="./navbar.gif" alt="gif" /> 
+ 
+
+
+
